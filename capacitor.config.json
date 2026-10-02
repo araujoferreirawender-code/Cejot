@@ -1,0 +1,6 @@
+{
+  "appId":"com.veredito.jogo",
+  "appName":"Veredito",
+  "webDir":"www",
+  "bundledWebRuntime":false
+}
